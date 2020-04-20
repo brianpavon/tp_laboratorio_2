@@ -1,0 +1,12 @@
+C:\Users\brian\Desktop\TPS 2020\TP_1_2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\brian\Desktop\TPS 2020\TP_1_2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\brian\Desktop\TPS 2020\TP_1_2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\TPS 2020\TP_1_2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\TPS 2020\TP_1_2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\brian\Desktop\TPS 2020\TP_1_2020\Entidades\obj\Debug\Entidades.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\TP_1_2020\Entidades\bin\Debug\Entidades.dll
+C:\Users\brian\Desktop\tp_laboratorio_2\TP_1_2020\Entidades\bin\Debug\Entidades.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\TP_1_2020\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\tp_laboratorio_2\TP_1_2020\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\tp_laboratorio_2\TP_1_2020\Entidades\obj\Debug\Entidades.dll
+C:\Users\brian\Desktop\tp_laboratorio_2\TP_1_2020\Entidades\obj\Debug\Entidades.pdb
