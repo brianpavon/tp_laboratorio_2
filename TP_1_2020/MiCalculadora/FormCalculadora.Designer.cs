@@ -1,6 +1,6 @@
 ﻿namespace MiCalculadora
 {
-    partial class LaCalculadora
+    partial class FormCalculadora
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -77,9 +77,9 @@
             "-",
             "*",
             "/"});
-            this.cmbOperador.Location = new System.Drawing.Point(203, 71);
+            this.cmbOperador.Location = new System.Drawing.Point(194, 74);
             this.cmbOperador.Name = "cmbOperador";
-            this.cmbOperador.Size = new System.Drawing.Size(194, 31);
+            this.cmbOperador.Size = new System.Drawing.Size(209, 31);
             this.cmbOperador.TabIndex = 2;
             this.cmbOperador.Text = "Elija la operacion";
             // 
@@ -122,7 +122,7 @@
             this.button4.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.Location = new System.Drawing.Point(25, 202);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(215, 53);
+            this.button4.Size = new System.Drawing.Size(235, 53);
             this.button4.TabIndex = 7;
             this.button4.Text = "Convertir a Binario";
             this.button4.UseVisualStyleBackColor = true;
@@ -131,15 +131,15 @@
             // button5
             // 
             this.button5.Font = new System.Drawing.Font("Bookman Old Style", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.Location = new System.Drawing.Point(351, 202);
+            this.button5.Location = new System.Drawing.Point(327, 202);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(215, 53);
+            this.button5.Size = new System.Drawing.Size(239, 53);
             this.button5.TabIndex = 8;
             this.button5.Text = "Convertir a Decimal";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
-            // LaCalculadora
+            // FormCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -156,7 +156,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
-            this.Name = "LaCalculadora";
+            this.Name = "FormCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Brian Pavon del curso 2ºD";
             this.ResumeLayout(false);
