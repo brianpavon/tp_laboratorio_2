@@ -73,9 +73,12 @@ namespace Entidades
 
         public static double operator /(Numero numUno, Numero numDos)
         {
-            double resultado = double.MinValue;
-            
-            if(numDos.numero > 0)
+            double resultado;
+            if(numDos.numero == 0)
+            {
+                resultado = double.MinValue;
+            }            
+            else
             {
                 resultado = numUno.numero / numDos.numero;
             }
