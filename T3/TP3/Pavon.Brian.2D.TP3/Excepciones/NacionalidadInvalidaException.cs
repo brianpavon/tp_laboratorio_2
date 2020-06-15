@@ -9,7 +9,7 @@ namespace Excepciones
     public class NacionalidadInvalidaException : Exception
     {
         /// <summary>
-        /// 
+        /// Constructor sin parametro
         /// </summary>
         public NacionalidadInvalidaException()
         {
@@ -17,9 +17,9 @@ namespace Excepciones
         }
 
         /// <summary>
-        /// 
+        /// Constructor que recibe un string para mostrar ese mensaje
         /// </summary>
-        /// <param name="mensaje"></param>
+        /// <param name="mensaje">string en el que se cargara</param>
         public NacionalidadInvalidaException(string mensaje):base(mensaje)
         {
                 

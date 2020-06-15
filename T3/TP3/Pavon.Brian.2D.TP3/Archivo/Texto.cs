@@ -31,7 +31,7 @@ namespace Archivo
             }
             else
             {
-                throw new ArchivosException(new Exception("No se pudo guardar el archivo"));
+                throw new ArchivosException("No se pudo guardar el archivo");
             }
             
             return retorno;
@@ -60,7 +60,7 @@ namespace Archivo
             }
             else
             {
-                throw new ArchivosException(new Exception("No se puede leer el archivo"));
+                throw new ArchivosException("No se puede leer el archivo");
             }
             return retorno;
         }
