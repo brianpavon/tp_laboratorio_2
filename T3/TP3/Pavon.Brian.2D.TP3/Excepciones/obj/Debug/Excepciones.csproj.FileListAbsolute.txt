@@ -1,0 +1,6 @@
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb

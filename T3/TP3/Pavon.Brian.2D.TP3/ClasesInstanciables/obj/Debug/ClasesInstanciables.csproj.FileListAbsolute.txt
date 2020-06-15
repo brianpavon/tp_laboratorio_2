@@ -1,0 +1,13 @@
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\Archivo.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\Clases_Abstractas.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\Archivo.pdb
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\Clases_Abstractas.pdb
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

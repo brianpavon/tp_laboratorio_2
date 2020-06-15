@@ -1,0 +1,9 @@
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\bin\Debug\Clases_Abstractas.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\bin\Debug\Clases_Abstractas.pdb
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\bin\Debug\Excepciones.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\bin\Debug\Excepciones.pdb
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\obj\Debug\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\obj\Debug\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\obj\Debug\ClasesAbstractas.csproj.CopyComplete
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.dll
+C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\Clases_Abstractas\obj\Debug\Clases_Abstractas.pdb

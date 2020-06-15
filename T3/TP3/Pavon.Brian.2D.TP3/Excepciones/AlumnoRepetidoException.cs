@@ -10,7 +10,12 @@ namespace Excepciones
     {
         public AlumnoRepetidoException()
         {
-            throw new Exception("Alumno repetido");
+            
+        }
+
+        public AlumnoRepetidoException(string mensaje):base(mensaje)
+        {
+
         }
     }
 }

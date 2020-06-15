@@ -10,6 +10,11 @@ namespace Excepciones
     {
         public SinProfesorException()
         {
+            
+        }
+
+        public SinProfesorException(string mensaje):base(mensaje)
+        {
 
         }
     }

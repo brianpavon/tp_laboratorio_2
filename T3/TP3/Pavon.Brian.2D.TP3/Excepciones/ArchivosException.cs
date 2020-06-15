@@ -10,7 +10,7 @@ namespace Excepciones
     {
         public ArchivosException(Exception innerException)
         {
-
+            
         }
 
     }
