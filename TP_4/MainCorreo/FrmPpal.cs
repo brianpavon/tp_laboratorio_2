@@ -14,6 +14,9 @@ namespace MainCorreo
     public partial class FrmPpal : Form
     {
         Correo correo; 
+        /// <summary>
+        /// Constructor en el que se instancia el objeto Correo
+        /// </summary>
         public FrmPpal()
         {
             InitializeComponent();
@@ -21,7 +24,8 @@ namespace MainCorreo
         }
 
         /// <summary>
-        /// 
+        /// Se crea un nuevo paquete con el texto del txtDireccion y el texto del mTxtTrackingID, se le pasa el evento de informar el estado
+        /// Se agrega el paquete a la lista del correo y se va actualizando los list box, para mostrar el estado del paquete
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -42,7 +46,7 @@ namespace MainCorreo
         }
 
         /// <summary>
-        /// 
+        /// Mediante el metodo de Mostrar, carga los datos en el richTextBox, de los paquetes que estan en la lista de Correo
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -52,7 +56,7 @@ namespace MainCorreo
         }
 
         /// <summary>
-        /// 
+        /// Muestra en el richTextBox los datos del paquete que esta en estado entregado
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -62,7 +66,7 @@ namespace MainCorreo
         }
 
         /// <summary>
-        /// 
+        /// Cierra todos los hilos que se encuentran abiertos
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -71,8 +75,9 @@ namespace MainCorreo
             correo.FinEntregas();
         }
 
+        #region Metodos
         /// <summary>
-        /// 
+        /// Evento que informa el estado del paquete, este se pasara al evento InformaEstado de Paquete
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -90,7 +95,7 @@ namespace MainCorreo
         }
 
         /// <summary>
-        /// 
+        /// Limpia los listBox, y va cargando los paquetes en el listBox que corresponda de acuerdo a su estado
         /// </summary>
         private void ActualizarEstados()
         {
@@ -118,7 +123,7 @@ namespace MainCorreo
         }
 
         /// <summary>
-        /// 
+        /// En caso del objeto no ser nulo, mostrara sus datos, en el richTextBox
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="elemento"></param>
@@ -130,5 +135,9 @@ namespace MainCorreo
                 this.rtbMostrar.Text.Guardar("salida.txt");
             }
         }
+
+        #endregion
+
+
     }
 }

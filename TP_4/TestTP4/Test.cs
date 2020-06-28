@@ -9,7 +9,7 @@ namespace TestTP4
     {
 
         /// <summary>
-        /// 
+        /// Test que verifica que la lista de Paquetes está instanciada
         /// </summary>
         [TestMethod]
         public void VerificarLista()
@@ -27,7 +27,7 @@ namespace TestTP4
         }
 
         /// <summary>
-        /// 
+        /// Test que verifica que no se pueda agregar 2 paquetes con el mismo Tracking ID, esto se verifica cuando lanza la Excepcion
         /// </summary>
         [TestMethod]
         [ExpectedException(typeof(TrackingIdRepetidoException))]
@@ -39,8 +39,6 @@ namespace TestTP4
 
             c += p1;
             c += p2;
-
         }
-
     }
 }

@@ -12,13 +12,14 @@ namespace Entidades
     public class Correo: IMostrar<List<Paquete>>
     {
         /// <summary>
-        /// 
+        /// Atributos de la clase
         /// </summary>
         private List<Thread> mockPaquetes;
         private List<Paquete> paquetes;
 
+        #region Propiedades
         /// <summary>
-        /// 
+        /// Propiedad que setea o devuelve la lista de paquetes
         /// </summary>
         public List<Paquete> Paquetes
         {
@@ -32,20 +33,26 @@ namespace Entidades
             }
         }
 
+
+        #endregion
+
+
         /// <summary>
-        /// 
+        /// Constructor en el que se instancian las listas del Correo
         /// </summary>
         public Correo() 
         {
             mockPaquetes = new List<Thread>();
             paquetes = new List<Paquete>();
         }
-        
+
+        #region Metodos
+
         /// <summary>
-        /// 
+        /// Implementacion del metodo MostrarDatos, donde se muestran los datos de los paquetes de la lista
         /// </summary>
-        /// <param name="elementos"></param>
-        /// <returns></returns>
+        /// <param name="elementos">Es la lista del cual se mostraran los datos</param>
+        /// <returns>Devuelve una cadena con los datos de los paquetes</returns>
         public string MostrarDatos(IMostrar<List<Paquete>> elementos)
         {
             StringBuilder sb = new StringBuilder();
@@ -57,11 +64,13 @@ namespace Entidades
         }
 
         /// <summary>
-        /// 
+        /// Sobrecarga del operador +, a través del cual se agregara un nuevo paquete a la lista del correo en caso que no este en la lista
+        /// Si estuviera, lanza una excepcion de paquete repetido
+        /// Crea un hilo para el metodo MockCicloDeVida, lo agrega a lista de hilos y lo ejecuta
         /// </summary>
-        /// <param name="c"></param>
-        /// <param name="p"></param>
-        /// <returns></returns>
+        /// <param name="c">Objeto correo, al cual se le agregara el paquete en su lista de paquetes</param>
+        /// <param name="p">Obejto a agregar en la lista de paquetes de Correo</param>
+        /// <returns>En caso de poder agregar devuelve el objeto Correo, con el nuevo paquete en su lista</returns>
         public static Correo operator +(Correo c, Paquete p)
         {
             bool repetido = false;            
@@ -84,7 +93,7 @@ namespace Entidades
         }
 
         /// <summary>
-        /// 
+        /// Cierra todos los hilos que se encuentran activos
         /// </summary>
         public void FinEntregas()
         {
@@ -96,5 +105,7 @@ namespace Entidades
                 }
             }
         }
+
+#endregion
     }
 }
