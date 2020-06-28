@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E0040325-C8E8-428A-A19B-E82F9EDE846C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainCorreo", "MainCorreo\MainCorreo.csproj", "{313A6178-34DD-4507-A487-B25C09D94519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTP4", "TestTP4\TestTP4.csproj", "{D5D421B4-B17A-46CE-9A4F-D85DB9DFC7FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0040325-C8E8-428A-A19B-E82F9EDE846C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0040325-C8E8-428A-A19B-E82F9EDE846C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0040325-C8E8-428A-A19B-E82F9EDE846C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0040325-C8E8-428A-A19B-E82F9EDE846C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313A6178-34DD-4507-A487-B25C09D94519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313A6178-34DD-4507-A487-B25C09D94519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313A6178-34DD-4507-A487-B25C09D94519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313A6178-34DD-4507-A487-B25C09D94519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D421B4-B17A-46CE-9A4F-D85DB9DFC7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D421B4-B17A-46CE-9A4F-D85DB9DFC7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D421B4-B17A-46CE-9A4F-D85DB9DFC7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D421B4-B17A-46CE-9A4F-D85DB9DFC7FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49893E54-0593-4263-9037-E62378B360B3}
+	EndGlobalSection
+EndGlobal

@@ -14,3 +14,19 @@ C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debu
 C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.csproj.CopyComplete
 C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.exe
 C:\Users\brian\Desktop\TPS 2020\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\TrabajoPractico3.exe.config
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\TrabajoPractico3.exe
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\TrabajoPractico3.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\Archivo.dll
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\ClasesInstanciables.dll
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\Clases_Abstractas.dll
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\Excepciones.dll
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\Archivo.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\ClasesInstanciables.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\Clases_Abstractas.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\bin\Debug\Excepciones.pdb
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.csprojAssemblyReference.cache
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.csproj.CopyComplete
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.exe
+C:\Users\brian\Desktop\tp_laboratorio_2\T3\TP3\Pavon.Brian.2D.TP3\TrabajoPractico3\obj\Debug\TrabajoPractico3.pdb
