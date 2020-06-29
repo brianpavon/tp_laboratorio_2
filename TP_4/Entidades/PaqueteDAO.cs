@@ -53,9 +53,9 @@ namespace Entidades
 
                     comando.CommandText = "insert into Paquetes (direccionEntrega, trackingID, alumno) Values(@direccionEntrega,@trackingID, @alumno)";
 
-                    comando.Parameters.Add("direccionEntrega", p.DireccionEntrega);
-                    comando.Parameters.Add("trackingID", p.TrackingID);
-                    comando.Parameters.Add("alumno", "Brian Pavon");
+                    comando.Parameters.Add(new SqlParameter("direccionEntrega", p.DireccionEntrega));
+                    comando.Parameters.Add(new SqlParameter("trackingID", p.TrackingID));
+                    comando.Parameters.Add(new SqlParameter("alumno", "Brian Pavon"));
 
                     inserto = comando.ExecuteNonQuery();
                     if (inserto != -1)
